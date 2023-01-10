@@ -6,7 +6,7 @@
 
     <h1 align="center">Hi 👋, I'm Christian M. De Los Santos</h1>
     <h3 align="center">A passionate data science</h3>
-<br><br>
+
     <h3 align="left">Connect with me:</h3>
     <p align="left">
     <a href="https://linkedin.com/in/christiandls444" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="christiandls444" height="30" width="40" /></a>
