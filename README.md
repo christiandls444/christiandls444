@@ -1,5 +1,6 @@
+
 <div id="header" align="center">
-![ASlD](https://user-images.githubusercontent.com/78226187/211548958-f96bd46b-6107-4bff-8ac9-81f03e3d2a31.gif)
+  <img src="[https://media.giphy.com/media/VGcVZyreAU2UewDI81/giphy.gif](https://user-images.githubusercontent.com/78226187/211548958-f96bd46b-6107-4bff-8ac9-81f03e3d2a31.gif)" height = "330" width="360"/>
 </div>
   
 <h1 align="center">Hi 👋, I'm Christian M. De Los Santos</h1>
