@@ -1,7 +1,7 @@
 
 
 <div id="header" align="center">
-  <img src="https://user-images.githubusercontent.com/78226187/211548958-f96bd46b-6107-4bff-8ac9-81f03e3d2a31.gif" height = "430" width="560"/>
+  <img src="https://user-images.githubusercontent.com/78226187/211558017-d8e1477f-b2c5-4010-a99b-9dc94d7a70db.gif" height = "430" width="560"/>
   <h1 align="center">Hi 👋, I'm Christian M. De Los Santos</h1>
 <h3 align="center">A passionate data science</h3>
 </div>
