@@ -1,4 +1,5 @@
-https://media0.giphy.com/media/xT9C25UNTwfZuk85WP/200.webp
+![ASlD](https://user-images.githubusercontent.com/78226187/211548958-f96bd46b-6107-4bff-8ac9-81f03e3d2a31.gif)
+
 <h1 align="center">Hi 👋, I'm Christian M. De Los Santos</h1>
 <h3 align="center">A passionate data science</h3>
 
