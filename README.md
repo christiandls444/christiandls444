@@ -12,7 +12,7 @@
 # 📈 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=christiandls444&theme=radical&hide_border=true&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=christiandls444&theme=radical&hide_border=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=christiandls444&theme=radical&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=christiandls444&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 # 🏆 GitHub Trophies
